@@ -12,3 +12,7 @@ fn main() {
    println!("Hello World!);
 }
 ```
+- [ ] Edit Files
+- [ ] Preview Changes
+- [ ] Write Commit message
+- [ ] Commit changes
